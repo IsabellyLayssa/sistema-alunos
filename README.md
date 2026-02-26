@@ -34,7 +34,7 @@ Java JDK instalado
 
 ## Executando a versão em C#
 
-1. Pré-requisito
+1. Pré-requisito:
 .NET SDK instalado
 
 2. Terminal:
