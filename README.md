@@ -21,27 +21,25 @@ Ambas as versões resolvem o mesmo problema e apresentam o mesmo comportamento.
 - Identificação de alunos acima da média da turma
 - Identificação de alunos com frequência abaixo de 75%
 
-## Como executar
+## Executando a versão em Java
 
-1. Executando a versão em Java
-
-- Pré-requisito
+1. Pré-requisito:
 Java JDK instalado
 
-- No terminal:
-cd java_app
-javac Main.java
-java Main
+2. Terminal:
+- cd java_app
+- javac Main.java
+- java Main
 
 
-2. Executando a versão em C#
+## Executando a versão em C#
 
-- Pré-requisito
+1. Pré-requisito
 .NET SDK instalado
 
-- No terminal:
-cd csharp
-dotnet run
+2. Terminal:
+- cd csharp
+- dotnet run
 
 ## Premissas assumidas
 
